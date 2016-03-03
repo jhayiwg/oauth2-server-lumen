@@ -1,13 +1,14 @@
 {
-    "name": "optimus/oauth2-server-lumen",
-    "description": "A Lumen bridge for lucadegasperi/oauth2-server-laravel",
+    "name": "jhayiwg/oauth2-server-lumen",
+    "description": "A Lumen bridge for lucadegasperi/oauth2-server-laravel and optimus/oauth2-server-lumen",
     "require": {
-        "lucadegasperi/oauth2-server-laravel": "^5.0"
+        "lucadegasperi/oauth2-server-laravel": "^5.0",
+        "optimus/oauth2-server-lumen" : "dev-master"
     },
     "authors": [
         {
-            "name": "Esben Petersen",
-            "email": "ep@traede.com"
+            "name": "Jhay",
+            "email": "webdev@idealwebgeek.com"
         }
     ],
     "autoload": {
