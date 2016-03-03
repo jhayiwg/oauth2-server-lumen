@@ -2,8 +2,7 @@
     "name": "jhayiwg/oauth2-server-lumen",
     "description": "A Lumen bridge for lucadegasperi/oauth2-server-laravel and optimus/oauth2-server-lumen",
     "require": {
-        "lucadegasperi/oauth2-server-laravel": "^5.0",
-        "optimus/oauth2-server-lumen" : "dev-master"
+        "lucadegasperi/oauth2-server-laravel": "^5.0"
     },
     "authors": [
         {
